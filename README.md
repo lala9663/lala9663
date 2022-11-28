@@ -2,6 +2,7 @@
 
 <!--
 **lala9663/lala9663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala9663&show_icons=true&theme=cobalt)
 
 Here are some ideas to get you started:
 
