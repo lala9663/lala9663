@@ -28,7 +28,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lala96632040@gmail.com)](mailto:lala96632040@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lala9663@naver.com)](mailto:lala9663@naver.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=autorandom&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=autorandom&height=200&section=footer&text=bye👋&fontSize=90)
 
 <!--
 **lala9663/lala9663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
