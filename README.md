@@ -7,6 +7,7 @@
 <br>
 ![](./profile-3d-contrib/profile-night-view.svg)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=compact)](https://github.com/lala9663/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
