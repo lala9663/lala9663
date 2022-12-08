@@ -7,7 +7,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=compact)](https://github.com/lala9663/github-readme-stats)
 <br>
-profile-3d-contrib/profile-gitblock.svg
+![](./profile-3d-contrib/profile-gitblock.svg)
 <br>
 
 <!--START_SECTION:waka-->
