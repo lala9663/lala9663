@@ -9,6 +9,7 @@
 <br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
 <br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lala9663)](https://github.com/lala9663/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
