@@ -8,8 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=compact)](https://github.com/lala9663/github-readme-stats)
 <br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
-<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lala9663)](https://github.com/lala9663/github-readme-stats)
+<!-- <br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lala9663)](https://github.com/lala9663/github-readme-stats) -->
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=lala9663)](https://github.com/ryo-ma/github-profile-trophy)
 
