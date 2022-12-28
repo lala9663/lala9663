@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=hi👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=hi👋&fontSize=90)
 
 ![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala9663&show_icons=true&theme=cobalt)
 <br>
@@ -11,7 +11,7 @@
 <br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lala9663)](https://github.com/lala9663/github-readme-stats)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?lala9663=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lala9663)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
