@@ -11,10 +11,11 @@
 <br>
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lala9663)](https://github.com/lala9663/github-readme-stats) -->
 <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=lala9663)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=lala9663)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
