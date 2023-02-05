@@ -3,7 +3,7 @@
 ![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala9663&show_icons=true&theme=cobalt)
 <br> 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lala9663)](https://solved.ac/lala9663/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lala9663&theme=dark)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lala9663&theme=dark) -->
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=compact)](https://github.com/lala9663/github-readme-stats)
 <br>
