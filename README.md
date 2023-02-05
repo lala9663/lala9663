@@ -2,14 +2,14 @@
 
 ![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala9663&show_icons=true&theme=cobalt)
 <br> 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lala9663)](https://solved.ac/lala9663/) -->
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lala9663&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lala9663)](https://solved.ac/lala9663/)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lala9663&theme=dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=compact)](https://github.com/lala9663/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=compact)](https://github.com/lala9663/github-readme-stats) -->
 <br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lala9663)](https://github.com/lala9663/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lala9663)](https://github.com/lala9663/github-readme-stats) -->
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=lala9663)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
