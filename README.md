@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=hi👋&fontSize=70)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=hi👋&fontSize=80)  
 
 ![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala9663&show_icons=true&theme=cobalt)
 <br> 
