@@ -8,10 +8,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=lala9663&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
 </a>
-<a href="https://github.com/lala9663/github-stats">
- <img src="https://raw.githubusercontent.com/lala9663/github-stats/output/generated/languages.svg" width=51%/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=compact"><br><br>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&exclude_repo=lala9663.github.io&layout=compact&theme=tokyonight" width=48% />
 </a>
+
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lala9663&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
@@ -22,7 +23,11 @@
   
 <br><br><br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lala9663&theme=tokyonight)](https://git.io/streak-stats)
+<!--   <a href="https://opgc.me/#/users/lala9663" target="_blank"><img src="https://api.opgc.me/githubs/users/lala9663/tag/?theme=basic" /></a> -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlala9663evpla&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+
+
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lala9663)](https://github.com/lala9663/github-readme-stats) -->
