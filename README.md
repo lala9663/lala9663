@@ -10,6 +10,7 @@
 </a>
 <a href="https://github.com/lala9663/github-stats">
  <img src="https://raw.githubusercontent.com/lala9663/github-stats/output/generated/languages.svg" width=51%/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=compact"><br><br>
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lala9663&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
