@@ -1,5 +1,4 @@
-![snake gif](https://github.com/lala9663/lala9663/blob/output/github-contribution-grid-snake.svg)
-
+<!-- ![snake gif](https://github.com/lala9663/lala9663/blob/output/github-contribution-grid-snake.svg) -->
 <div align="center">
 <br><br><br>
  
