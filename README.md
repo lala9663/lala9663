@@ -1,7 +1,8 @@
 ![snake gif](https://github.com/lala9663/lala9663/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 <br><br><br>
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=35&pause=1000&color=9D9ED2&width=404&height=53&lines=Hi+there%2C+I'm+Taeyun)](https://git.io/typing-svg)
 
 <br><br><br>
