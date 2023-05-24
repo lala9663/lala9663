@@ -55,7 +55,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lala9663@naver.com)](mailto:lala9663@naver.com)
 
 
-[![lala9663's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lala9663&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/lala9663/github-readme-activity-graph)
+
 <!--
 **lala9663/lala9663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
