@@ -81,9 +81,11 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lala9663@naver.com)](mailto:lala9663@naver.com)
 
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=lala9663&theme={insert_theme})](https://lala9663.tistory.com)
+<!--
+ [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=lala9663&theme={insert_theme})](https://lala9663.tistory.com)
+-->
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=lala9663&postId={insert_postId}&theme={insert_theme})](https://lala9663.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=lala9663&theme=tistory)](https://lala9663.tistory.com/)
 
 <!--
 **lala9663/lala9663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
