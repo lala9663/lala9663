@@ -84,9 +84,9 @@
 -->
 <br><br><br>
 
-<p align="center"> 
+
 <a href="https://lala9663.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api?name=lala9663&theme=tistory" alt="Tistory's Card"></a>
-</p>
+
 
 <p align="center"> 
 <a href="https://hits.seeyoufarm.com">
