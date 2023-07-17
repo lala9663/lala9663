@@ -45,13 +45,11 @@
 </br>
 
 <!--   <a href="https://opgc.me/#/users/lala9663" target="_blank"><img src="https://api.opgc.me/githubs/users/lala9663/tag/?theme=basic" /></a> -->
-<p align="center"> 
-<a href="https://hits.seeyoufarm.com">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlala9663evpla&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=falseA9%EB%AC%B8%EC%9E%90&edge_flat=true"/></a>
-</p>  
 
+
+<!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+-->
 
 
 <!--START_SECTION:waka-->
@@ -84,9 +82,16 @@
 <!--
  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=lala9663&theme={insert_theme})](https://lala9663.tistory.com)
 -->
+<br><br><br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=lala9663&theme=tistory)](https://lala9663.tistory.com/)
+<p align="center"> 
+<a href="https://lala9663.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api?name=lala9663&theme=tistory" alt="Tistory's Card"></a>
+</p>
 
+<p align="center"> 
+<a href="https://hits.seeyoufarm.com">
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlala9663evpla&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=falseA9%EB%AC%B8%EC%9E%90&edge_flat=true"/></a>
+</p>  
 <!--
 **lala9663/lala9663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
