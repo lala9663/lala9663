@@ -1,4 +1,5 @@
-<!-- ![snake gif](https://github.com/lala9663/lala9663/blob/output/github-contribution-grid-snake.svg) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 <div align="center">
 </br></br></br>
 <a href="https://git.io/typing-svg">
@@ -55,6 +56,7 @@
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlala9663evpla&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=falseA9%EB%AC%B8%EC%9E%90&edge_flat=true"/></a>
 </p>  
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 <!--
 
