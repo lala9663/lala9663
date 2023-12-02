@@ -33,17 +33,16 @@
 <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <div align="center">
 <!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=lala9663&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=56% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lala9663&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=38% height:70%/>
+<img src="https://github-readme-stats.vercel.app/api?username=lala9663&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=56% height=70%/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lala9663&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0#gh-dark-mode-only" width=94%/>
 
 
 <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; width: 48%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=lala9663&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width="53%" style="height:100%;" />
-    </a>
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lala9663&theme=tokyonight" width=53%"/>
     <a href="https://lala9663.tistory.com/" style="display: inline-block; width: 48%;">
-        <img src="https://github-readme-tistory-card.vercel.app/api?name=lala9663&theme=tistory" alt="Tistory's Card" width="40%" style="height:100%;" />
+        <img src="https://github-readme-tistory-card.vercel.app/api?name=lala9663&theme=tistory" alt="Tistory's Card" width="40%" />
     </a>
 </div>
 
