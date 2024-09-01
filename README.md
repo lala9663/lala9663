@@ -11,7 +11,28 @@
   <img src="https://render.gitanimals.org/lines/lala9663?pet-id=1" width="1000" height="120"/>
 </a>
 
-  <!--
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 현재 공부하고 중
+</summary>
+<ul>
+  <li>RPA 기술 공부</li>
+  <li>C#</li>
+</ul>
+</details>
+<details>
+ <summary>
+  :snowman: 배우고 싶은 것
+</summary>
+ <ul>
+  <li>C# 으로 간단한 게임</li>
+  <li>LangChain</li>
+</ul>
+
+</details>
+
+
+<!--
 <p style="width:40%;height:400px;overflow:hidden;">
  <a href="https://git.io/streak-stats">
 <img alt="2" src="https://github-readme-streak-stats.herokuapp.com/?user=lala9663&theme=tokyonight" width=45% style="height:100%;"/>
