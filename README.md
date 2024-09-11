@@ -13,7 +13,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 현재 공부하고 중
+  🔥 현재 공부하고 중
 </summary>
 <ul>
   <li>RPA 기술 공부</li>
@@ -22,15 +22,22 @@
 </details>
 <details>
  <summary>
-  :snowman: 배우고 싶은 것
+  ⛄ 배우고 싶은 것
 </summary>
  <ul>
   <li>C# 으로 간단한 게임</li>
   <li>LangChain</li>
 </ul>
-
 </details>
-
+<details>
+<summary>
+  🏛️ 회사
+</summary>
+<ul>
+  <li>RPA 운영/개발</li>
+  <li>챗봇 개발</li>
+</ul>
+</details>
 
 <!--
 <p style="width:40%;height:400px;overflow:hidden;">
