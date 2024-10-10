@@ -34,8 +34,7 @@
   🏛️ 회사
 </summary>
 <ul>
-  <li>RPA 운영/개발</li>
-  <li>챗봇 개발</li>
+  <li>[메타넷 글로벌](https://metanetglobal.com/ko/company/metanetglobal/index.php)</li>
 </ul>
 </details>
 
