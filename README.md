@@ -34,7 +34,7 @@
   🏛️ 회사
 </summary>
 <ul>
-  <li>[메타넷 글로벌](https://metanetglobal.com/ko/company/metanetglobal/index.php)</li>
+ <a href= "https://metanetglobal.com/ko/company/metanetglobal/index.php">
 </ul>
 </details>
 
