@@ -16,13 +16,20 @@
   🔥 현재 공부하고 중
 </summary>
 <ul>
-  <li>RPA 기술 공부
+  <li>RPA
     <ul>
+      <li>Brity</li>
       <li>UiPath</li>
       <li>A360 (Automation 360)</li>
     </ul>
   </li>
-  <li>C#</li>
+  <li>언어
+    <ul>
+      <li>Java/Spring</li>
+      <li>JavaScript/Vue</li>
+      <li>C#</li>
+    </ul>
+  </li>
 </ul>
 </details>
 <details>
@@ -30,6 +37,7 @@
   ⛄ 배우고 싶은 것
 </summary>
  <ul>
+  <li>포스팅형 페이지</li>
   <li>C# 으로 간단한 게임</li>
   <li>LangChain</li>
 </ul>
