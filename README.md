@@ -30,13 +30,12 @@
 </ul>
 </details>
 <details>
-<summary>
-  🏛️ 회사
-</summary>
-<ul>
- <a href= "https://metanetglobal.com/ko/company/metanetglobal/index.php">
-</ul>
+  <summary>🏛️ 회사</summary>
+  <ul>
+    <li><a href="https://metanetglobal.com/ko/company/metanetglobal/index.php" target="_blank">메타넷글로벌</a></li>
+  </ul>
 </details>
+
 
 <!--
 <p style="width:40%;height:400px;overflow:hidden;">
