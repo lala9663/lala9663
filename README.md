@@ -16,7 +16,12 @@
   🔥 현재 공부하고 중
 </summary>
 <ul>
-  <li>RPA 기술 공부</li>
+  <li>RPA 기술 공부
+    <ul>
+      <li>UiPath</li>
+      <li>A360 (Automation 360)</li>
+    </ul>
+  </li>
   <li>C#</li>
 </ul>
 </details>
