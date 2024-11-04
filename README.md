@@ -8,8 +8,13 @@
 </div>
 </br></br>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/lala9663?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/lala9663?pet-id=617976377319730281"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 <details>
 <summary>
