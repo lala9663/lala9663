@@ -25,14 +25,15 @@
   <li>RPA
     <ul>
       <li>Brity</li>
-      <li>UiPath</li>
-      <li>A360 (Automation 360)</li>
+      <li>BluePrism</li>
+      <li>A360</li>
     </ul>
   </li>
   <li>언어
     <ul>
-      <li>Java/Spring</li>
-      <li>JavaScript/Vue</li>
+      <li>Java</li>
+      <li>JavaScript</li>
+      <li>Python</li>
       <li>C#</li>
     </ul>
   </li>
@@ -45,7 +46,8 @@
  <ul>
   <li>포스팅형 페이지</li>
   <li>C# 으로 간단한 게임</li>
-  <li>LangChain</li>
+  <li>LangChain/RAG</li>
+  <li>대화형 프로젝트</li>
 </ul>
 </details>
 <details>
