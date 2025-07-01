@@ -1,30 +1,3 @@
-import sys
-import os
-
-# 인자가 제대로 들어왔는지 확인
-if len(sys.argv) < 2:
-    print("사용법: python create_textfile.py <변수값>")
-    sys.exit(1)
-
-# 명령줄 인자로부터 변수값 가져오기
-value = sys.argv[1]
-
-# 바탕화면 경로 설정 (Windows 기준)
-desktop_path = os.path.join(os.path.expanduser("~"), "Desktop")
-
-# 파일 경로
-file_name = "output.txt"
-file_path = os.path.join(desktop_path, file_name)
-
-# 변수값이 10일 때 파일 생성
-if value == "10":
-    with open(file_path, "w", encoding="utf-8") as file:
-        file.write("명령줄 인자로 받은 값이 10이므로 바탕화면에 파일을 생성했습니다.\n")
-    print(f"파일이 생성되었습니다: {file_path}")
-else:
-    print(f"입력한 값이 10이 아니므로 파일을 생성하지 않습니다. (입력값: {value})")
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
