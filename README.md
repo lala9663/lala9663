@@ -94,24 +94,3 @@ focused on AI Automation, RPA, and workflow optimization.
 <img src="https://img.shields.io/badge/Automation360-FF6F00?style=for-the-badge"/>
 
 </div>
-
----
-
-# 📌 Philosophy
-
-> Build practical systems that reduce repetitive work  
-> and improve operational efficiency through automation.
-
----
-
-<div align="center">
-
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flala9663&count_bg=%23C9A7FF&title_bg=%23333333&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:918FE0,100:C9A7FF&height=40&section=footer" width="100%"/>
