@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:918FE0,100:C9A7FF&height=180&section=header&text=Taeyun%20Kim&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:918FE0,100:C9A7FF&height=190&section=header&text=Taeyun%20Kim&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=32&pause=1000&color=C9A7FF&center=true&vCenter=true&width=520&lines=AI+Automation+Engineer;RPA+%7C+Backend+%7C+Workflow;Building+Practical+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=30&pause=1000&color=C9A7FF&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;Backend+%7C+RPA+%7C+Workflow;Building+Practical+Automation+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,15 +18,15 @@
 
 ---
 
-# 🧑‍💻 About Me
+# 👨‍💻 About Me
 
 Backend & Automation Engineer with 3 years of experience  
-focused on RPA, AI Automation, and workflow optimization.
+focused on AI Automation, RPA, and workflow optimization.
 
-- 💼 Working at <a href="https://metanetglobal.com/ko/company/metanetglobal/index.php">메타넷글로벌</a>
+- 💼 Working at Metanet Global
 - 🤖 Interested in AI Workflow & Agent Systems
-- ⚙️ Building automation systems for real-world operations
-- 🚀 Exploring LLM Applications & RAG Architectures
+- ⚙️ Building automation systems for operational efficiency
+- 🚀 Exploring RAG, LLM Applications, and AI-assisted workflows
 
 ---
 
@@ -40,14 +40,24 @@ focused on RPA, AI Automation, and workflow optimization.
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-| Project | Description | Tech |
+### 🧠 AI & Backend
+
+| Project | Description | Stack |
 |---|---|---|
-| AI Chatbot | RAG 기반 사내 챗봇 | FastAPI, OpenAI, PostgreSQL |
-| ScentBot | 향수 추천 AI 서비스 | React, FastAPI |
-| Workflow Automation | 업무 자동화 시스템 구축 | Python, Brity RPA |
-| Internal Tools | 운영 효율화 내부 도구 개발 | JavaScript, Python |
+| ScentBot | 향수 추천 AI 서비스 | FastAPI, PostgreSQL |
+| AI Chatbot | RAG 기반 챗봇 | FastAPI, OpenAI |
+| Internal Tools | 운영 자동화 내부 도구 | Python, JavaScript |
+
+<br/>
+
+### ⚙️ Enterprise & Automation
+
+| Project | Description | Stack |
+|---|---|---|
+| Workflow Automation | 업무 자동화 시스템 | Brity RPA, Python |
+| Travel Platform | 여행 플랫폼 백엔드 개발 | Java, Spring |
 
 ---
 
@@ -55,7 +65,7 @@ focused on RPA, AI Automation, and workflow optimization.
 
 - AI Automation
 - Agent Workflow
-- Backend Systems
+- Backend Architecture
 - RAG Systems
 - Workflow Optimization
 - Data Processing
@@ -72,14 +82,36 @@ focused on RPA, AI Automation, and workflow optimization.
 <br/><br/>
 
 ### Backend & Infra
-<img src="https://skillicons.dev/icons?i=spring,fastapi,docker,postgres,git,github" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,docker,postgres,mysql,git,github" />
 
 <br/><br/>
 
-### Tools & Platforms
+### AI & Automation
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Brity_RPA-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BluePrism-1D70B8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Automation360-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
+
+---
+
+# 📌 Philosophy
+
+> Build practical systems that reduce repetitive work  
+> and improve operational efficiency through automation.
+
+---
+
+<div align="center">
+
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flala9663&count_bg=%23C9A7FF&title_bg=%23333333&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:918FE0,100:C9A7FF&height=40&section=footer" width="100%"/>
