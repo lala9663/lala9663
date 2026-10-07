@@ -47,7 +47,6 @@ focused on AI Automation, RPA, and workflow optimization.
 | Project | Description | Stack |
 |---|---|---|
 | ScentBot | 향수 추천 AI 서비스 | FastAPI, PostgreSQL |
-| AI Chatbot | RAG 기반 챗봇 | FastAPI, OpenAI |
 | Internal Tools | 운영 자동화 내부 도구 | Python, JavaScript |
 
 <br/>
